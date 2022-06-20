@@ -1,0 +1,4 @@
+print I have a pen
+print I have an apple
+print OOOOO
+cat apple pen
